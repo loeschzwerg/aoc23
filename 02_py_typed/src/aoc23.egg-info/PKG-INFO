@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: aoc23
+Version: 0.0.0
+Provides-Extra: dev
+Requires-Dist: black; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
