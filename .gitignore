@@ -13,6 +13,9 @@ pom.xml.asc
 .nrepl-port
 .cpcache/
 
+**.idea/
+**.iml
+
 
 # specific
 .cookie
