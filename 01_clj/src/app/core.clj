@@ -1,7 +1,6 @@
 (ns app.core
   (:require [clojure.java.io :as io]
             [clojure.string :as str]
-            [clojure.string :as string]
             [typed.clojure :as t]
             [clojure.core.typed :as ct])
   (:import (java.io BufferedReader)
